@@ -4,14 +4,15 @@ O projeto possui o intuito de simular as características de personagens Rpg e s
 
 💻**Construção**
 
-A construção do código foi realizado com a linguagem de programação java
-com segmentos de programação orientada a objetos.
+Java 
+
+Netbeans 12
 
 📋**Pré-requisitos**
 
 Java Jdk
 
-Netbeans 12
+IDE de preferência
 
 ▶️**Instalação**
 
